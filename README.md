@@ -4,7 +4,7 @@
 
 **Offline PDF Utility** is a desktop application designed to bring essential PDF and document operations into one simple, modern interface. It works completely offline, allowing users to process documents locally without uploading files to websites or cloud services.
 
-Created by **Aakash998**.
+Created by **AakashSingh988**.
 
 ---
 
@@ -138,7 +138,7 @@ OfflinePDFUtility/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aakash998/OfflinePDFUtility.git
+git clone https://github.com/AakashSingh988/OfflinePDFUtility.git
 cd OfflinePDFUtility
 ```
 
@@ -232,13 +232,7 @@ Pull requests are also welcome.
 
 ---
 
-## 📜 License
 
-Choose a license for the project before publishing a final release.
-
-For example, you may use the **MIT License** if you want others to freely use, modify, and distribute the project.
-
----
 
 ## 👨‍💻 Creator
 
